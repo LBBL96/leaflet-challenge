@@ -43,14 +43,14 @@ function createFeatures(data) {
     }
 
 
-     // var legend = L.control({position:"bottomright"})
+    // var legend = L.control({position:"bottomright"})
     // addLegend(myMap, position = "bottomright", 
     //     bins = 5, 
     //     colors = ["b30000", "ff0000", "ff6600", "ffcc00", "ffff00"], 
-    //     labels = ["> 4", "> 3", "> 2", "> 1", "< 1"]
+    //     labels = ["> 4", "> 3", "> 2", "> 1", "< 1"],
     //     opacity = 0.5, 
     //     title = "Magnitudes", 
-    //     data = getMapData(myMap));
+    //     data = getMapData(earthquakes));
 
 
     // Create a GeoJSON layer containing the features array on the earthquakeData object
